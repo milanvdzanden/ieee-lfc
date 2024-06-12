@@ -1,2 +1,2 @@
-# ieee-lfc
-Line Follower Robot Documentation
+# IEEE Line Follower Competition
+This repository will serve as the main source of all technical details related to the Line Follower Competition. This repository also contains all design files for the robot template kit, which will be made available for purchase as well. Some example code will be provided but you are completely free to change these design files, code and even the robot to get an edge over the other teams.

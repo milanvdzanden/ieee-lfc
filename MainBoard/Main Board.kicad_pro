@@ -437,8 +437,6 @@
       "version": 3
     },
     "net_colors": {
-      "+BATT": "rgb(0, 194, 0)",
-      "Net-(U2-VCC)": "rgb(0, 194, 0)",
       "unconnected-(H1-Pad1)": "rgb(0, 0, 255)",
       "unconnected-(H10-Pad1)": "rgb(0, 194, 0)",
       "unconnected-(H3-Pad1)": "rgb(0, 0, 255)",

@@ -19,7 +19,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -34,6 +34,7 @@
       3,
       4,
       5,
+      8,
       9,
       10,
       12,
@@ -59,9 +60,10 @@
       34,
       35,
       36,
+      39,
       40
     ],
-    "visible_layers": "8089020_ffffffff",
+    "visible_layers": "ff81030_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -71,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "SensorboardV2.kicad_prl",
+    "filename": "BoostBoard.kicad_prl",
     "version": 3
   },
   "project": {

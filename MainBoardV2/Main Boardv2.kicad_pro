@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.4
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -125,7 +125,7 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
+        "min_text_height": 0.6,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.0,
@@ -185,7 +185,8 @@
         0.2,
         0.3,
         0.5,
-        1.0
+        1.0,
+        1.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -455,7 +456,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Main Board.kicad_pro",
+    "filename": "Main Boardv2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -498,7 +499,7 @@
       "plot": "M:/Projects/IEEE Line Follower/Outputs/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "MainBoard.step",
+      "step": "MainBoardV2.step",
       "svg": "",
       "vrml": ""
     },

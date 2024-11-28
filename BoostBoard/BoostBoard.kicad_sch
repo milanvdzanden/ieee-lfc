@@ -1759,6 +1759,25 @@
 		)
 		(uuid "ffecb97c-1989-4c8c-ace5-8ac5f29cbaeb")
 	)
+	(text_box "Vout |	RT	|RB\n12	|	47k	|5.49k\n10	|	39k	|5.49k\n8	|	30k	|5.49k"
+		(exclude_from_sim no)
+		(at 100.33 111.76 0)
+		(size 24.13 10.16)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "311b2789-cb92-4e8c-bd87-2d3d750c2d9e")
+	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
 		(at 171.45 63.5 0)

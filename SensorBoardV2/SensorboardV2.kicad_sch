@@ -12080,15 +12080,15 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 185.42 86.36 0)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b99e1679-7b18-49a8-a280-3f2cc6703f4f")
 		(property "Reference" "U10"
-			(at 185.42 76.2 0)
+			(at 185.42 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12096,7 +12096,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 185.42 78.74 0)
+			(at 185.42 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12104,7 +12104,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
-			(at 184.15 83.82 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12113,7 +12113,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 186.69 81.28 0)
+			(at 186.69 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12454,15 +12454,15 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 85.09 86.36 0)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c2ac4170-4d6d-4a98-902a-c57b4aa80497")
 		(property "Reference" "U1"
-			(at 85.09 76.2 0)
+			(at 85.09 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12470,7 +12470,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 85.09 78.74 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12478,7 +12478,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
-			(at 83.82 83.82 0)
+			(at 83.82 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12487,7 +12487,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 86.36 81.28 0)
+			(at 86.36 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
